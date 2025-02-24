@@ -1,0 +1,5 @@
+abra
+kadabra
+mabrabra
+movie
+string
